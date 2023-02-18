@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MainDemoApp.java&apos; to &apos;com.luv2code.aopdemo.MainDemoApp.java&apos;&#x0D;&#x0A;- Original project: &apos;spring_demo_aop-z-after-returning&apos;&#x0D;&#x0A;- Destination element: &apos;com.luv2code.aopdemo.MainDemoApp.java&apos;&#x0D;&#x0A;- Original element: &apos;com.luv2code.aopdemo.MainDemoApp.java&apos;" description="Copy compilation unit" destination="/src&lt;com.luv2code.aopdemo{MainDemoApp.java" element1="/src&lt;com.luv2code.aopdemo{MainDemoApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1673981527702" units="1" version="1.0"/>
+</session>

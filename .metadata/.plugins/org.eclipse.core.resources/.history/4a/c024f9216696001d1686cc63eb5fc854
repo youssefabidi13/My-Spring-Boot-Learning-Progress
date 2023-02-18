@@ -1,0 +1,7 @@
+package com.luv2code.aopdemo;
+
+public class Account {
+
+	private Sting name;
+	private String level;
+}

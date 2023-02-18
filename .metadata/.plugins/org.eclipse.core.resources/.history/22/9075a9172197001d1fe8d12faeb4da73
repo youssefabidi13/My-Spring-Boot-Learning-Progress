@@ -1,0 +1,16 @@
+package com.luv2code.aopdemo.service;
+
+import java.util.concurrent.TimeUnit;
+
+@
+public class TrafficFortuneService {
+
+	public String getFortune() {
+		
+		//simulate a delay
+		
+		TimeUnit.SECONDS.sleep(5);
+		
+		//return a fortune
+	}
+}

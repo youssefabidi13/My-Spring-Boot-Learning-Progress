@@ -1,0 +1,12 @@
+package myEssay;
+
+public class Eagle implements Animal{
+	public String name;
+	public String getName() {
+		return this.name;
+	}
+	@Override
+	public void eat() {
+		System.out.println("This eagle eat");
+	}
+}

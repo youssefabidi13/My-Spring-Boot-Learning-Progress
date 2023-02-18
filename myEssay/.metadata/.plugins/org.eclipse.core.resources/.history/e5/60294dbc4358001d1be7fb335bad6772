@@ -1,0 +1,10 @@
+package myEssay;
+
+public class Abidi implements Human{
+	private Animal myEagle;
+	
+	@Override
+	public void Own() {
+		System.out.println("I own " +myEagle);
+	}
+}

@@ -1,0 +1,5 @@
+package myEssay;
+
+public interface Animal {
+
+}

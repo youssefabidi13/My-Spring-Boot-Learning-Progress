@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Thu Jan 19 16:41:43 WEST 2023
+org.eclipse.jst.jee.server\:/binary\:D\:\\springLearn\\eclipse-workspace\\web-customer-tracker\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\springLearn\\eclipse-workspace\\web-customer-tracker\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\springLearn\\eclipse-workspace\\web-customer-tracker-aop\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\springLearn\\eclipse-workspace\\web-customer-tracker-aop\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar

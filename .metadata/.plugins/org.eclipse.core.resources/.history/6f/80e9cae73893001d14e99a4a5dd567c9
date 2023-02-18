@@ -1,0 +1,6 @@
+package com.luv2code.springdemo.controller;
+
+@Controller
+public class CustomerController {
+
+}

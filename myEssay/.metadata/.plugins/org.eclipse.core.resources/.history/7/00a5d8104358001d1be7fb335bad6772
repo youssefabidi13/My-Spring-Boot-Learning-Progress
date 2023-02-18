@@ -1,0 +1,10 @@
+package myEssay;
+
+public class Abidi implements Human{
+	private Animal myEagle;
+	public Abidi(Animal theEagle) {
+		this.myEagle=theEagle;
+	}
+	@Override
+	public
+}

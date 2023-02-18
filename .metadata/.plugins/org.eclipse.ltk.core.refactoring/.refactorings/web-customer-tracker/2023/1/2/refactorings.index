@@ -1,0 +1,15 @@
+1673609401091	Copy file
+1673609464658	Rename resource 'web2.xml'
+1673609600432	Delete elements
+1673620801427	Copy package
+1673620806724	Delete element
+1673620963737	Delete element
+1673623008281	Copy file
+1673623029577	Rename resource 'style2.css'
+1673623044006	Delete element
+1673623547217	Move 'index.jsp' to 'WEB-INF'
+1673623565102	Move 'web.xml' to 'webapp'
+1673623586285	Move 'index.jsp' to 'webapp'
+1673623791761	Move 'spring-mvc-crud-demo-servlet.xml' to 'webapp'
+1673623817203	Move 'spring-mvc-crud-demo-servlet.xml' to 'WEB-INF'
+1673623818988	Move 'web.xml' to 'WEB-INF'
