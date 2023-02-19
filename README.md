@@ -26,7 +26,11 @@ Testing Spring MVC applications
 Introduction to Aspect-Oriented Programming (AOP)  
 Understanding AOP concepts such as Joinpoints, Pointcuts, and Advices  
 Implementing AOP using Spring AOP  
-Using AOP for logging, performance monitoring, and transaction management  
+Using AOP for logging, performance monitoring, and transaction management 
+## Spring Rest  
+Spring REST is a framework for building RESTful web services using the Spring Framework. REST (Representational State Transfer) is an architectural style for building web services that are simple, scalable, and easily accessible over the internet.  
+  
+One of the key features of Spring REST is its support for the HTTP methods like GET, POST, PUT, DELETE, and PATCH. These methods are used to perform CRUD (Create, Read, Update, Delete) operations on resources.  
 ## Spring Security  
 Introduction to Spring Security and its architecture  
 Implementing authentication and authorization using Spring Security  
